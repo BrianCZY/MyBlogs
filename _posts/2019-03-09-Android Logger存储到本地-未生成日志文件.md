@@ -27,6 +27,6 @@ private void requsetStoragePermission() {
 
 1、分析Logger
 
- ![img](image\2019-3-9-1.jpg)
+ ![img](image/2019-3-9-1.jpg)
 
 2、结论
