@@ -6,8 +6,6 @@
 
 ​	使用Logger
 
- 
-
 Logger日志地址
 
 <https://github.com/orhanobut/logger>
@@ -29,5 +27,6 @@ private void requsetStoragePermission() {
 
 1、分析Logger
 
- ![img](file:///C:\Users\brian\AppData\Local\Temp\ksohtml3308\wps1.jpg)
+ ![img](wps1.jpg)
 
+2、结论
