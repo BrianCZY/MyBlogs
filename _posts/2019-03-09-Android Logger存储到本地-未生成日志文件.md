@@ -27,6 +27,6 @@ private void requsetStoragePermission() {
 
 1、分析Logger
 
- ![img](https://github.com/BrianCZY/MyBlogs/blob/gh-pages/_posts/wps1.jpg)
+ ![img](https://github.com/BrianCZY/MyBlogs/blob/gh-pages/_posts/wps1.jpg?raw=true)
 
 2、结论
