@@ -27,6 +27,12 @@ private void requsetStoragePermission() {
 
 1、分析Logger
 
- ![img](/image/2019-3-9-1.png)
+ ![img](https://github.com/BrianCZY/MyBlogs/blob/gh-pages/image/2019-3-9-1.jpg)
 
 2、结论
+
+
+
+3、测试图片
+
+ ![img](https://github.com/BrianCZY/MyBlogs/blob/gh-pages/image/2019-3-9-2.jpg)
