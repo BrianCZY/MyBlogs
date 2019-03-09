@@ -27,6 +27,6 @@ private void requsetStoragePermission() {
 
 1、分析Logger
 
- ![img]({{site.url}}/image/2019-3-9-1.png)
+ ![img](/image/2019-3-9-1.png)
 
 2、结论
